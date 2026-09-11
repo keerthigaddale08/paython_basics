@@ -1,0 +1,7 @@
+a=int(input("Enter number 1"))
+b=int(input("Enter number 2 "))
+c=int(input("Enter number 3"))
+if a>=c and a>=b:
+     print("Largest number",a)
+elif b>=a and b>=c:
+     print("Smallest number",b)

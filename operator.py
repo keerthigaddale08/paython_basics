@@ -1,0 +1,8 @@
+print("Arthemetic Operator:")
+a=int(input("Enter the number"))
+b=int(input("Enter an other number"))
+print(a+b,"Sum")
+print(a-b,"Diffrence")
+print(a*b,"Multiplication")
+print(a/b,"Division")
+print(a**b,"Exponent")
