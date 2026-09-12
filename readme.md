@@ -1,6 +1,6 @@
 this repository contains simple basic python programs
 
-1. if you create new file, then you should run the below command to push the code into your github repository
+1. if you modified any file, then you should run the below command to push the code into your github repository
 
 git add .
 
